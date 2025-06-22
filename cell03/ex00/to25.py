@@ -2,7 +2,7 @@
 
 num = int(input("Enter a number less than 25: "))
 
-while num > 25:
+while num >= 25:
     print("Error")
     num = int(input("Enter a number less than 25: "))
 
