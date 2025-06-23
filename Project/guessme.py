@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+#Thaninthorn Sabaiying (Fahsai)
+#Rawikarn Choenkhwanma (Nuea)
+#Punyapa Chamsaard (Yok)
 
 import random
 
